@@ -6,7 +6,7 @@
 
 <h2 align="center">Hello👁<br>I'm Nico🎩🔨👮🏻‍♂️</h1>
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
-<h7 align="left">Moreover, I am the founder of the Queen Amdi whatsapp user bot project. <br>Queen Amdi Project 👸</h7>
+<h7 align="left">Moreover, I am the founder of the SL Technical Tips whatsapp user bot project. <br>SL Technical Tips Project 👸</h7>
 
 ##
 <p align="center">
