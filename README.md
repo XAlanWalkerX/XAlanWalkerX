@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=SLTechnicalTips&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/SLTechnicalTips?tab=stars">
+  <a href="https://github.com/SLTechnicalTips/SLTechnicalTips-BOT?tab=stars">
     <img src="https://img.shields.io/github/stars/SLTechnicalTips?color=ff69b4&label=Stars&style=plastic">
 
   </a>
