@@ -33,9 +33,13 @@
 
 - 📫 How to reach me > [Telegram](https://t.me/sltechnicaltipsadmincontactbot) <
 
+- 👨‍ SL Technical Tips YouTube Channel... > [YouTube](https://YouTube.com/SLTechnicalTips/) <
+
+- 📫 There is My simple Website > [Website](http://sltechnicaltips.github.io/) <
+
 - 💫 **I am only a beginner developer.. 🌆**
 
-- 👨‍ SL Technical Tips YouTube Channel... > [YouTube](https://YouTube.com/SLTechnicalTips/) <
+
 
 ----
 
