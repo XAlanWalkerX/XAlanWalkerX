@@ -33,7 +33,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [SL Technical Tips BOT Project](https://github.com/SLTechnicalTips/SLTechnicalTips-BOT)
+- 🔭 I’m currently working on [BlackKingdom BOT Project](https://github.com/BlackKingdoms/BlackKingdom)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
