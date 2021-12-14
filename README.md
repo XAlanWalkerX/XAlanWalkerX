@@ -18,11 +18,11 @@
 
 ##
 <p align="center">
-  <a href="https://github.com/SLTechnicalTips/SLTechnicalTips-BOT">
+  <a href="https://github.com/SLTechnicalTips/CyberQueen">
     <img src="https://komarev.com/ghpvc/?username=SLTechnicalTips&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/SLTechnicalTips/SLTechnicalTips-BOT?tab=stars">
+  <a href="https://github.com/SLTechnicalTips/CyberQueen?tab=stars">
     <img src="https://img.shields.io/github/stars/SLTechnicalTips?color=ff69b4&label=Stars&style=plastic">
 
   </a>
@@ -33,7 +33,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [BlackKingdom BOT Project](https://github.com/BlackKingdoms/BlackKingdom)
+- 🔭 I’m currently working on [Cyber Queen BOT Project](https://github.com/SLTechnicalTips/CyberQueen)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
