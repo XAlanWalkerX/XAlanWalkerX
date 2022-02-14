@@ -69,3 +69,11 @@
    <p align='center'>
    <a href="https://YouTube.com/SLTechnicalTips/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
 </p>
+
+    
+
+  <summary><b>My Github Stats</b></summary>
+  <img alt="NICO's github stats" src="https://github-readme-stats.vercel.app/api?username=SLTechnicalTips&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLTechnicalTips&layout=compact&hide_border=true"/>
+</details>
