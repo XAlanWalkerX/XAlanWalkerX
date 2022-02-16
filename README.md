@@ -42,7 +42,7 @@
 
 
 
-- 🔭 I’m currently working on [Cyber Queen BOT Project](https://github.com/SLTechnicalTips/CyberQueen) and [BlackKingdom BOT Project](https://github.com/BlackKingdoms/BlackKingdom)
+- 🔭 I’m currently working on [Cyber Queen BOT Project](https://github.com/SLTechnicalTips/CyberQueen) and [Ultroid BOT Project](https://github.com/UltroidWA/Ultroid)
 
 - 🌱 I’m currently learning **Java, Node.js, HTML, Python**
 
