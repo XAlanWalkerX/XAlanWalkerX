@@ -235,5 +235,5 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <!-- https://github.com/SLTechnicalTips/github-readme-activity-graph -->
-<a href="https://github.com/SLTechnicalTips/github-readme-activity-graph"><img alt="Cyber Draxo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SLTechnicalTips&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SLTechnicalTips/github-readme-activity-graph"><img alt="SLTechnicalTips's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SLTechnicalTips&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
